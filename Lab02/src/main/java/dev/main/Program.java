@@ -42,7 +42,7 @@ public class Program {
         System.out.print("Enter the price of the product: ");
         long price = scanner.nextLong();
         Product product = new Product(name, price);
-        ResultSet id = productDAO.add(product);
+        Long id = productDAO.add(product);
         if (id != null) {
             System.out.println("Product added with id: " + id);
         } else {
