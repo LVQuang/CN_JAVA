@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e12efdc1-e018-4268-bb32-9cc6cefede9e" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../Lab03/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab03/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab03/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab03/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab03/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab03/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab03/Lab03.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab03/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab03/src/main/java/main/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab03/src/main/java/main/Dao/ManufactureDAO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab03/src/main/java/main/Dao/PhoneDAO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab03/src/main/java/main/Domain/Manufacture.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab03/src/main/java/main/Domain/Phone.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab03/src/main/java/main/Repository/Repository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab03/src/main/java/main/Utils/HibernateUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab03/src/main/resources/hibernate.cfg.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab01/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab01/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab02/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab02/pom.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="2eCxPFLRR7naukzfncezzvGfZfx" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/Users/ql776/Documents/Study File/Major/Java Technologies/Exercise/Lab06",
+    "settings.editor.selected.configurable": "com.poratu.idea.plugins.tomcat.setting.TomcatServersConfigurable"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e12efdc1-e018-4268-bb32-9cc6cefede9e" name="Changes" comment="" />
+      <created>1711422335212</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1711422335212</updated>
+      <workItem from="1711422336914" duration="81000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

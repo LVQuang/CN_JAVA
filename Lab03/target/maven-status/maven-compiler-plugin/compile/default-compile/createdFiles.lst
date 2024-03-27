@@ -1,0 +1,7 @@
+main\Domain\Phone.class
+main\Repository\Repository.class
+main\App.class
+main\Dao\ManufactureDAO.class
+main\Dao\PhoneDAO.class
+main\Utils\HibernateUtils.class
+main\Domain\Manufacture.class
