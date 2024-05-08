@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/Lab01/Exercise04/pom.xml" />
+        <option value="$PROJECT_DIR$/Lab02/pom.xml" />
+        <option value="$PROJECT_DIR$/Lab03/pom.xml" />
+        <option value="$PROJECT_DIR$/Lab06/ex01/pom.xml" />
+        <option value="$PROJECT_DIR$/Lab06/ex02/pom.xml" />
+        <option value="$PROJECT_DIR$/Lab06/ex03/pom.xml" />
+        <option value="$PROJECT_DIR$/Lab06/ex04/pom.xml" />
+        <option value="$PROJECT_DIR$/Lab06/ex05/pom.xml" />
+        <option value="$PROJECT_DIR$/Lab07/ex01/pom.xml" />
+        <option value="$PROJECT_DIR$/Lab07/ex02/pom.xml" />
+        <option value="$PROJECT_DIR$/Lab07/ex03/pom.xml" />
+        <option value="$PROJECT_DIR$/Lab07/ex04/pom.xml" />
+        <option value="$PROJECT_DIR$/Lab07/ex05/pom.xml" />
+        <option value="$PROJECT_DIR$/Lab07/ex06/pom.xml" />
+        <option value="$PROJECT_DIR$/Lab08/Lab08_01/pom.xml" />
+        <option value="$PROJECT_DIR$/Lab08/Lab08_02/pom.xml" />
+        <option value="$PROJECT_DIR$/Lab10/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_X" default="true" project-jdk-name="20" project-jdk-type="JavaSDK" />
+  <component name="ProjectType">
+    <option name="id" value="jpab" />
+  </component>
+</project>

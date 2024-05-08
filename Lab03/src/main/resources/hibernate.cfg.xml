@@ -3,23 +3,14 @@
         "http://www.hibernate.org/dtd/hibernate-configuration-3.0.dtd">
 <hibernate-configuration>
     <session-factory>
-        <!-- Database setting -->
-        <property name = "hibernate.connection.driver_class">com.mysql.jdbc.Driver</property>
-        <property name = "hibernate.connection.url">jdbc:mysql://localhost:3306/java_lab_3</property>
+        <property name = "hibernate.hbm2ddl.auto">update</property>
+        <property name="show_sql">true</property>
+        <property name = "hibernate.dialect">org.hibernate.dialect.MySQL8Dialect</property>
+        <property name = "hibernate.connection.driver_class">com.mysql.cj.jdbc.Driver</property>
+        <property name = "hibernate.connection.url">jdbc:mysql://localhost:3306/lab3_java</property>
         <property name = "hibernate.connection.username">root</property>
         <property name = "hibernate.connection.password"></property>
-        <!-- JDBC connection pool (use the built-in) -->
-        <property name="connection.pool_size">4</property>
-        <!-- Enable Hibernate's automatic session context management -->
-        <property name="current_session_context_class">thread</property>
-        <!-- Auto create table -->
-        <property name = "hibernate.hbm2ddl.auto">update</property>
-        <!-- SQL dialect -->
-        <property name = "hibernate.dialect">org.hibernate.dialect.MySQLDialect</property>
-        <!-- Show all executed SQL to console -->
-        <property name="show_sql">true</property>
-        <!-- Entity mapping -->
-        <mapping class = "main.Domain.Phone"/>
-        <mapping class = "main.Domain.Manufacture"/>
+        <mapping class = "dev.lvpq.domain.Phone"/>
+        <mapping class = "dev.lvpq.domain.Manufacturer"/>
     </session-factory>
 </hibernate-configuration>
